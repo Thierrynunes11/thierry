@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SÁBADO ÀS 18H</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            color: #d35400;
+        }
+
+        p {
+            font-size: 1.2em;
+            color: #333;
+        }
+
+        img {
+            max-width: 90%;
+            height: auto;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <h1>Paulinho é o melhor tio do mundo</h1>
+    <p>Por isso ele vai botar o churrasco pros guri!</p>
+    <img src="kit-churrasco-completo-2_0-debetti_img1_jpg.webp" alt="Kit churrasco completo">
+</body>
+</html>
